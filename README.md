@@ -1,9 +1,9 @@
 # ROCK PAPER SCISSORS
 Funny games based on HTML, CSS and JavaScript. 
 
-##ABOUT
+## ABOUT
 
-You play with computer. You will win when you get 10 points.  
+You play with computer. 
 Click on the link to play! 
 https://osowskimateusz97.github.io/rockpaper/
 
